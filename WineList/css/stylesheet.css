@@ -1,0 +1,10 @@
+.main{
+    width: 1300px;
+    margin: auto;
+    position: relative;
+    background-color: whitesmoke;
+    box-shadow: 0 10px 10px 0 #777;
+    padding-bottom: 20px;
+    border-radius: 15px 15px 0 0;
+
+    }
